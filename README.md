@@ -5,8 +5,7 @@ This project is a solution for the Bajaj Finserv Health Qualifier 1 Java challen
 
 ## Submission Details
 - GitHub Repository: https://github.com/ArchitTomar/Bajaj
-- RAW JAR Link: https://raw.githubusercontent.com/your-username/Bajaj/main/target/Bajaj-qualifier1.jar
-  -*Public JAR Link: [Paste your Google Drive link here]
+- RAW JAR Link:https://drive.google.com/drive/folders/1OXGwDFNJ2GoAyquJfwzAvYZ150zNhfo7?usp=drive_link
 
 ## Approach
 - Used `RestTemplate` for synchronous webhook interactions.
